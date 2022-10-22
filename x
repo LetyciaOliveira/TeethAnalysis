@@ -1,2 +1,2 @@
-eccho 123
-
+#!/bin/bash
+echo 123
